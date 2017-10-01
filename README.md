@@ -1,6 +1,6 @@
 # react-spring-boot-basic-app
 
-Basic "Hellow World" application using Spring Boot and React (create-react-app[https://github.com/facebookincubator/create-react-app]).
+Basic "Hellow World" application using Spring Boot and React [create-react-app](https://github.com/facebookincubator/create-react-app).
 
 ## Runnning the application:
 ``./mvnw spring-boot:run ``
