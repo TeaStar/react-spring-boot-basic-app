@@ -15,3 +15,5 @@ Open a new terminal window:
 ``$ cd src/main/frontend/``
 
 ``$ yarn start``
+
+The frontend will be accessible on http://localhost:3000/
