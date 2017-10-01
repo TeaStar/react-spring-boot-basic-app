@@ -1,0 +1,23 @@
+{
+  "name": "marketing-images-capture",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-standard-jsx": "^4.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "CI=true react-scripts test --env=jsdom",
+    "lint": "eslint ./src",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
