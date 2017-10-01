@@ -10,6 +10,8 @@ or on windows us mvnw.cmd
 The application will be accessible on http://localhost:8080/
 
 ## To develop the frontend
-Open a new terminal window
-``$ cd src/main/frontend/
-$ yarn start``
+Open a new terminal window:
+
+``$ cd src/main/frontend/``
+
+``$ yarn start``
