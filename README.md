@@ -1,6 +1,8 @@
 # react-spring-boot-basic-app
 
-Basic "Hello World" application using Spring Boot and React [create-react-app](https://github.com/facebookincubator/create-react-app).
+A very basic "Hello World" application using Spring Boot and React [create-react-app](https://github.com/facebookincubator/create-react-app).
+
+Spring Boot is acting as a simple web server for your frontend application. To create api calls Redux would need to be introduced along with Rest Controllers on the Spring side.
 
 ## Runnning the application:
 ``./mvnw spring-boot:run ``
